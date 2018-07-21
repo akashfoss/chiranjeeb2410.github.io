@@ -426,7 +426,7 @@ footer {
     background-size: cover;
     background-position: center center;
     color: #ffffff;
-    font-family: fantasy;
+    font-family: 'Poppins', sans-serif;
 }
 
 #register .form-control {
@@ -534,23 +534,13 @@ footer {
     padding-top: 7rem;
     padding-bottom: 7rem;
     color: white;
-    font-family: fantasy;
+    font-family: 'Poppins', sans-serif;
 }
 
 #venue p {
   padding-top: 12px;
   padding-bottom: 18px;
 }
-
-
-
-/*---------------------------------------
-   Sponsors section
------------------------------------------*/
-#sponsors img {
-  margin-top: 18px;
-}
-
 
 
 /*---------------------------------------
